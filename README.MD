@@ -1,4 +1,7 @@
 # Django Template
+## How to run?
+1.Environment variables
+2.Staticfiles
 
 ### Dictionary 
 - REPL - read, evaluate, print, loop
@@ -9,6 +12,8 @@
 - yaml - yet another markup language
 - alpine wersja linuxa
 - CDN - content delivery network
+- minification - remove whitespace
+- uglification - short identifiers name
 
 ## New functionality algorithm
 1. New django-app (```bash python manage.py startapp <app-name>```)
