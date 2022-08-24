@@ -1,4 +1,5 @@
 # Django Template
+
 ## How to run?
 1.Environment variables
 2.Staticfiles
